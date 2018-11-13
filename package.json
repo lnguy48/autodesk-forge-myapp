@@ -1,0 +1,26 @@
+{
+  "name": "autodesk-forge-myapp",
+  "version": "1.0.0",
+  "description": "testing forge platform",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnguy48/autodesk-forge-myapp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lnguy48/autodesk-forge-myapp/issues"
+  },
+  "homepage": "https://github.com/lnguy48/autodesk-forge-myapp#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "forge-apis": "^0.4.4",
+    "multer": "^1.4.1",
+    "path": "^0.12.7"
+  }
+}
